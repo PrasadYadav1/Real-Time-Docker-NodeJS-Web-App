@@ -4,7 +4,7 @@ This is a repo for new users getting started with Docker.
 
 You can try it out using the following command.
 ```
-docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
+docker run -d -p 8088:80 --name  --name Technoidetity real-time-docker-nodejs-frontend-web-app
 ```
 And open `http://localhost:8088` in your browser.
 
@@ -14,7 +14,7 @@ Maintainers should see [MAINTAINERS.md](MAINTAINERS.md).
 
 Build and run:
 ```
-docker build -t welcome-to-docker . 
-docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
+docker build -t real-time-docker-nodejs-frontend-web-app . 
+docker run -d -p 8088:3000 --name Technoidetity real-time-docker-nodejs-frontend-web-app
 ```
 Open `http://localhost:8088` in your browser.
