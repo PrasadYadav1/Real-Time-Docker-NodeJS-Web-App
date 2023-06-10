@@ -1,4 +1,4 @@
-# Welcome to Docker
+# Welcome to Docker Containerization
 
 This is a repo for new users getting started with Docker.
 
